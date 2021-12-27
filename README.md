@@ -1,1 +1,3 @@
-# Minecraft-Tournament
+
+
+## What is Minecraft Tournament?
