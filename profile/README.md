@@ -6,7 +6,7 @@ Learn more by visiting our [Website](https://Minecraft-Tournament.github.io)!
 
 ## The Team
 
-**Sleaze** (Founder, [Lead Artist](https://github.com/orgs/Minecraft-Tournament/teams/artists), Lead Builder, Web Designer)
+**Sleaze** (Founder, [Lead Artist](https://github.com/orgs/Minecraft-Tournament/teams/artists), [Lead Builder](https://github.com/orgs/Minecraft-Tournament/teams/builders), Web Designer)
 
 ![Sleaze](https://minotar.net/helm/MineralWarrior/48.png)
 
