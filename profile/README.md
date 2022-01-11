@@ -1,9 +1,9 @@
 # What is Minecraft Tournament?
-**Minecraft Tournament** (or **MCT** for short) is a private competetive event for _Minecraft Java Edition._ You can apply to participate in the event on our [entry form](https://Minecraft-Tournament.github.io/participate)! The event does not take place at any specific time. To get notified on news visit our [schedule page](https://Minecraft-Tournament.github.io/schedule) or follow our social media: 
-[](https://twitter.com/MCT_Tournament)
+**Minecraft Tournament** (or **MCT** for short) is a private competetive event for _Minecraft Java Edition._ You can apply to participate in the event on our [entry form](https://Minecraft-Tournament.github.io/participate)! The event does not take place at any specific time. To get notified on news and updates feel free to visit our [schedule page](https://Minecraft-Tournament.github.io/schedule) or follow us on [Twitter](https://twitter.com/MCT_Tournament)!
 
-Learn more by visiting the FAQ section of our [Event & FAQ](https://Minecraft-Tournament.github.io/event) or 
-<br>
+Want to know more? Feel free to visit our [Website](https://Minecraft-Tournament.github.io/event) and join our [Official Discord Server](https://discord.com/invite/X9WKPgHYpH)!
+
+<br >
 
 ## The Team
 
@@ -15,4 +15,3 @@ Learn more by visiting the FAQ section of our [Event & FAQ](https://Minecraft-To
 **RobaCZ** (Founder, [Lead Developer](https://github.com/orgs/Minecraft-Tournament/teams/developers))
 
 ![RobaCZ](https://minotar.net/helm/RobaCZ/48.png)
-
