@@ -1,3 +1,5 @@
+[![LogoBanner](https://raw.githubusercontent.com/SangeloDev/SangeloDev/main/Banner%20Dark%206818x2727.png)](https://sangelo.space)
+
 # What is Minecraft Tournament?
 **Minecraft Tournament** (or **MCT** for short) is a private competetive event for _Minecraft Java Edition._ You can apply to participate in the event on our [entry form](https://Minecraft-Tournament.github.io/participate)! The event does not take place at any specific time. To get notified on news and updates feel free to visit our [schedule page](https://Minecraft-Tournament.github.io/schedule) or follow us on [Twitter](https://twitter.com/MCT_Tournament)!
 
