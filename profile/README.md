@@ -13,3 +13,5 @@ Learn more by visiting our [Website](https://Minecraft-Tournament.github.io)!
 **RobaCZ** (Founder, Lead Developer)
 
 ![RobaCZ](https://minotar.net/helm/RobaCZ/48.png)
+
+@Minecraft-Tournament/developers
