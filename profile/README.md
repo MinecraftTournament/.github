@@ -7,6 +7,10 @@
 
 Want to know more? Feel free to visit our [Website](https://Minecraft-Tournament.github.io/home) and join our [Official Discord Server](https://discord.com/invite/X9WKPgHYpH)!
 
+<a href="https://discord.com/invite/X9WKPgHYpH">
+  <img src="https://img.shields.io/discord/924363338291507210?color=43C56E&label=Discord%20Server&style=for-the-badge" alt="Discord">
+</a>
+
 <br >
 
 ## The Team
