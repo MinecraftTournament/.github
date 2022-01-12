@@ -7,7 +7,10 @@
 
 Want to know more? Feel free to visit our [Website](https://Minecraft-Tournament.github.io/home) and join our [Official Discord Server](https://discord.com/invite/X9WKPgHYpH)!
 
-<a href="https://discord.com/invite/X9WKPgHYpH">
+<a href="https://twitter.com/MCT_Tournament" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/MCT_Tournament?logo=twitter&style=for-the-badge" alt="MCT_Tournament" />
+</a>
+<a href="https://discord.com/invite/X9WKPgHYpH" target="_blank">
   <img src="https://img.shields.io/discord/924363338291507210?color=3ba55c&label=Discord%20Server&style=for-the-badge" alt="Discord">
 </a>
 
