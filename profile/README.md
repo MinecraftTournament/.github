@@ -27,3 +27,10 @@ Want to know more? Feel free to visit our [Website](https://Minecraft-Tournament
 **RobaCZ** (Founder, [Lead Developer](https://github.com/orgs/Minecraft-Tournament/teams/developers))
 
 ![RobaCZ](https://minotar.net/helm/RobaCZ/48.png)
+
+
+**Ragustar** ([Builder](https://github.com/orgs/Minecraft-Tournament/teams/builders))
+
+![ragustar](https://minotar.net/helm/ragustar/48.png)
+
+
