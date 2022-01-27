@@ -26,31 +26,28 @@
 <h2>The Team</h2>
 
 <p>
-    <b>Sleaze</b> (
-        Founder, 
-        <a href="https://github.com/orgs/Minecraft-Tournament/teams/artists">Lead Artist</a>,
-        <a href="https://github.com/orgs/Minecraft-Tournament/teams/builders">Lead Builder</a>, 
-        Web Designer
-    )
+    <b>Sleaze</b> 
+  (Founder,
+  <a href="https://github.com/orgs/Minecraft-Tournament/teams/artists">Lead Artist</a>,
+  <a href="https://github.com/orgs/Minecraft-Tournament/teams/builders">Lead Builder</a>, 
+  Web Designer)
 </p>
 
 <img src="https://minotar.net/helm/MineralWarrior/48.png" alt="Sleaze">
 
 <br>
 <p>
-    <b>RobaCZ</b> (
-        Founder, 
-        <a href="https://github.com/orgs/Minecraft-Tournament/teams/developers">Lead Developer</a>
-    )
+    <b>RobaCZ</b> 
+  (Founder, 
+  <a href="https://github.com/orgs/Minecraft-Tournament/teams/developers">Lead Developer</a>)
 </p>
 
 <img src="https://minotar.net/helm/RobaCZ/48.png" alt="RobaCZ">
 
 <br >
 <p>
-    <b>ragustar</b> (
-        <a href="https://github.com/orgs/Minecraft-Tournament/teams/builders">Builder</a>
-    )
+    <b>ragustar</b> 
+  (<a href="https://github.com/orgs/Minecraft-Tournament/teams/builders">Builder</a>)
 </p>
 
 <img src="https://minotar.net/helm/ragustar/48.png" alt="ragustar">
