@@ -47,5 +47,11 @@
 <img src="https://minotar.net/helm/RobaCZ/48.png" alt="RobaCZ">
 
 <br >
+<p>
+    <b>ragustar</b> (
+        <a href="https://github.com/orgs/Minecraft-Tournament/teams/builders">Builder</a>
+    )
+</p>
 
+<img src="https://minotar.net/helm/ragustar/48.png" alt="ragustar">
 
